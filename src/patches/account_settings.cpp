@@ -49,7 +49,7 @@ const char whitelist_new[] = {
 
 const char wave_original[] = "saccount.nintendo.net";
 
-const char wave_new[] =      "saccount.pretendo.cc";
+const char wave_new[] =      "saccount.brocatech.com";
 
 bool isAccountSettingsTitle();
 
