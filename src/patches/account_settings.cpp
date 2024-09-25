@@ -1,4 +1,4 @@
-/*  Copyright 2023 Pretendo Network contributors <pretendo.network>
+/*  Copyright 2023 Pretendo Network contributors <brocatech.com>
     Copyright 2023 Jemma Poffinbarger <jemma@jemsoftware.dev>
     Copyright 2023 Ash Logan <ash@heyquark.com>
     Copyright 2019 Maschell

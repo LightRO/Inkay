@@ -1,4 +1,4 @@
-/*  Copyright 2022 Pretendo Network contributors <pretendo.network>
+/*  Copyright 2022 Pretendo Network contributors <brocatech.com>
     Copyright 2022 Ash Logan <ash@heyquark.com>
     Copyright 2019 Maschell
 
