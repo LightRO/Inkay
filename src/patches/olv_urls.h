@@ -16,7 +16,7 @@
 
 #include <cstdlib>
 
-const char original_url[] = "discovery.olv.nintendo.net/v1/endpoint";
+const char original_url[] = "discove.olv.nintendo.net/v1/endpoint";
 const char new_url[] =      "discove.olv.brocatech.com/v1/endpoint";
 
 _Static_assert(sizeof(original_url) > sizeof(new_url),
